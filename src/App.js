@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          이부분에 변경사항 만들기!<br/>
-          변경사항 적용 연습!!
+          리액트 변경사항 적용!
         </p>
         <a
           className="App-link"
