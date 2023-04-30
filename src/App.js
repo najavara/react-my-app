@@ -9,6 +9,7 @@ function App() {
         <p>
           리액트 변경사항 적용!
           feature/publishing에서 추가!!
+          feature/publishing@reactfeature에서 추가함!
         </p>
         <a
           className="App-link"
