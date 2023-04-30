@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the spot where I can start to edit in order to learn react!
+          This is the spot where I can start to edit in order to learn react!<br/>
+          You can do everythin whatever you want to do!!
         </p>
         <a
           className="App-link"
