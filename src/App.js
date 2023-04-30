@@ -8,8 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is the spot where I can start to edit in order to learn react!<br/>
-          You can do everythin whatever you want to do!!
-          변경사항을 반영하자!
+          변경사항 적용 연습!!
         </p>
         <a
           className="App-link"
