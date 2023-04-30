@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the spot where I can start to edit in order to learn react!<br/>
+          이부분에 변경사항 만들기!<br/>
           변경사항 적용 연습!!
         </p>
         <a
