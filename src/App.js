@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           리액트 변경사항 적용!
-          git-exercise1 branch add
+          git-exercise1 branch add1
+          git-exercise1 branch add2
         </p>
         <a
           className="App-link"
